@@ -17,3 +17,5 @@ venv/
 # IDE и редакторы
 .vscode/
 .idea/
+
+env/
